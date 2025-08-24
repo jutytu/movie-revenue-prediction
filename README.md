@@ -1,4 +1,4 @@
-Movie revenue - analysis and prediction
+# Movie revenue - analysis and prediction
 
 ## Introduction
 This project explores movie revenue patterns using a movie dataset from Kaggle. The goal was to derive different kind of information from the dataset, as well as use it for ML models predicting movie revenue.
