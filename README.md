@@ -36,7 +36,7 @@ Due to GitHub’s file size limitations, large CSV files (e.g., `credits.csv`, m
   - Observed strong outliers in early cinema (e.g., *Gone with the Wind*, *Bambi*) impacting trends.    
 
 - **Modeling**  
-  - Linear Regression provided a baseline (R² ~0.47).  
+  - Linear Regression provided a baseline (RMSE ~1.40).  
   - Random Forest Regressor achieved the best performance (RMSE ~0.96).  
   - Gradient Boosting performed slightly worse than Random Forest (RMSE ~1.07), likely due to feature limitations and overfitting tendencies.  
 
